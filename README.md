@@ -1,2 +1,2 @@
 # Projeto-android
-Projeto disponibilizado do Curso em Vídeo
+Projeto disponibilizado pelo Curso em Vídeo
